@@ -1,0 +1,3 @@
+Parameters that can be varied:
+mfcc sampling rate
+n_mfcc
